@@ -1,4 +1,4 @@
-package com.test.place.component.aspect.annotation;
+package com.code_test.place.component.aspect.annotation;
 
 
 import java.lang.annotation.ElementType;

@@ -1,2 +1,6 @@
-server.port: 8090
+server.port: 8080
 logging.level.com.codingtest: DEBUG
+
+kakao.api-key: 726860b15cfc3e15d04cd2af661e2791
+naver.client-id: Z2fXjAl8mEyTUeKtvQmC
+naver.client-secret: weDUbaBVcA

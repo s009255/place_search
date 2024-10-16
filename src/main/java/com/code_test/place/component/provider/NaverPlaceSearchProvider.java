@@ -1,10 +1,10 @@
-package com.test.place.component.provider;
+package com.code_test.place.component.provider;
 
 
-import com.test.place.component.aspect.annotation.RedisCache;
-import com.test.place.component.client.NaverApiClient;
-import com.test.place.dto.Place;
-import com.test.place.dto.external.NaverSearchResponse;
+import com.code_test.place.component.aspect.annotation.RedisCache;
+import com.code_test.place.component.client.NaverApiClient;
+import com.code_test.place.dto.Place;
+import com.code_test.place.dto.external.NaverSearchResponse;
 import java.util.List;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.ObjectUtils;

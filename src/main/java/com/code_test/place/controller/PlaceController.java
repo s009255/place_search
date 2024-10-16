@@ -1,10 +1,10 @@
-package com.test.place.controller;
+package com.code_test.place.controller;
 
-import com.test.place.dto.ApiResponse;
-import com.test.place.dto.Keyword;
-import com.test.place.dto.Place;
-import com.test.place.service.KeywordService;
-import com.test.place.service.PlaceService;
+import com.code_test.place.dto.ApiResponse;
+import com.code_test.place.dto.Keyword;
+import com.code_test.place.dto.Place;
+import com.code_test.place.service.KeywordService;
+import com.code_test.place.service.PlaceService;
 import java.util.List;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

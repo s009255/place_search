@@ -1,8 +1,8 @@
-package com.test.place.service;
+package com.code_test.place.service;
 
 
-import com.test.place.component.provider.PlaceSearchProvider;
-import com.test.place.dto.Place;
+import com.code_test.place.component.provider.PlaceSearchProvider;
+import com.code_test.place.dto.Place;
 import java.time.Duration;
 import java.util.AbstractMap;
 import java.util.Comparator;

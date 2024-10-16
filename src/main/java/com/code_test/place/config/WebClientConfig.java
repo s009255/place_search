@@ -1,4 +1,4 @@
-package com.test.place.config;
+package com.code_test.place.config;
 
 
 import java.time.Duration;

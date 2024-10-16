@@ -1,7 +1,7 @@
-package com.test.place.service;
+package com.code_test.place.service;
 
 
-import com.test.place.dto.Keyword;
+import com.code_test.place.dto.Keyword;
 import java.util.List;
 import java.util.stream.Collectors;
 import lombok.extern.slf4j.Slf4j;

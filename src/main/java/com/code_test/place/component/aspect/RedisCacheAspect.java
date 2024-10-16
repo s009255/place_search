@@ -1,10 +1,10 @@
-package com.test.place.component.aspect;
+package com.code_test.place.component.aspect;
 
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.type.TypeFactory;
-import com.test.place.component.aspect.annotation.RedisCache;
+import com.code_test.place.component.aspect.annotation.RedisCache;
 import java.lang.reflect.Type;
 import java.util.List;
 import java.util.concurrent.TimeUnit;

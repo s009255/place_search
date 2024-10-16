@@ -1,13 +1,15 @@
-package com.test.place.dto.external;
+package com.code_test.place.dto.external;
 
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import java.util.List;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
+import lombok.Setter;
 
 @Getter
 @NoArgsConstructor
+@Setter
 public class NaverSearchResponse {
 
     @JsonProperty("lastBuildDate")
@@ -27,6 +29,7 @@ public class NaverSearchResponse {
 
     @Getter
     @NoArgsConstructor
+    @Setter
     public static class Item {
 
         @JsonProperty("title")

@@ -1,4 +1,4 @@
-package com.test.place.dto;
+package com.code_test.place.dto;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

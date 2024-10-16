@@ -1,9 +1,9 @@
-package com.test.place.component.client;
+package com.code_test.place.component.client;
 
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.test.place.dto.external.KakaoSearchResponse;
+import com.code_test.place.dto.external.KakaoSearchResponse;
 import java.util.HashMap;
 import java.util.Map;
 import lombok.extern.slf4j.Slf4j;

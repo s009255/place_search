@@ -1,7 +1,7 @@
-package com.test.place.component.provider;
+package com.code_test.place.component.provider;
 
 
-import com.test.place.dto.Place;
+import com.code_test.place.dto.Place;
 import java.util.List;
 import reactor.core.publisher.Mono;
 

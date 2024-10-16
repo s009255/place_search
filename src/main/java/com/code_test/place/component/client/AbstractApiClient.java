@@ -1,4 +1,4 @@
-package com.test.place.component.client;
+package com.code_test.place.component.client;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -38,7 +38,6 @@ public abstract class AbstractApiClient<T> {
 
 
     public Mono<T> searchPlaces(String keyword) {
-        log.info("### API call start ###");
 
         WebClient.RequestHeadersSpec<?> request = webClient.get()
             .uri(uriBuilder -> {
